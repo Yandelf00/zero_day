@@ -1,6 +1,6 @@
-#vagrant
+# Vagrant 
 
-* what is vagrant 
+* what is vagrant
 
-* who wrote vagrant 
+* who wrote vagrant
 
